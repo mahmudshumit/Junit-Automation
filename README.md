@@ -1,5 +1,5 @@
 # Project Title:
-Junit automation
+Junit Automation
 
 
 ## Project Summary:
