@@ -13,7 +13,7 @@ This project automates submitting a web form. It uses Selenium WebDriver to inte
 1. Clone this project
 2. Run it on Intellij IDE
 
-## Output
+## Output:
 ![report](https://github.com/mahmudshumit/Junit-Automation/assets/76776682/4d732a0c-3838-4662-98e9-64b5fb749a97)
 
 
